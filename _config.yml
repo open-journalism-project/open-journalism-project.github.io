@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/open-journalism-project" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://openjournalismproject.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
